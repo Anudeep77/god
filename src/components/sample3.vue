@@ -1,4 +1,4 @@
-;lkj<template>
+<template>
 <div>
 <p>{{sayHello()}}</p> 
 <p><a v-bind:href=link>google</a></p>
@@ -17,6 +17,8 @@
 <h1 v-else="isvisile">dhoni</h1>
 <h2 v-if="a==b">Anu</h2>
 <h3 v-else>hi this is javascript</h3>
+<h1> Anudeep</h1>
+<h2> Dhoni </h2>
 
  </div>
 </template>
