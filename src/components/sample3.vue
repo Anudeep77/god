@@ -4,6 +4,8 @@
 <p><a v-bind:href=link>google</a></p>
 <h1>{{title}}</h1>
 <button @click="increase">click me</button>
+<span>hello</span>
+<h1>helloworld</h1>
 <p>{{counter}}</p>
 <p v-on:mousemove="coordinate">coordinates: {{x}} / {{y}}-<span v-on:mousemove.stop="">stop</span></p>
 <button @click="changelink">click to change link</button>
