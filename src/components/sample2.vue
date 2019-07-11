@@ -1,7 +1,7 @@
 <template>
 <div>
-  <input type="text" v-on:input="changeTitle">
-  <h1>{{title}}</h1>
+  <h2>sadara</h2>
+  <p>sadara</p>
  </div>
 </template>
 <script>
